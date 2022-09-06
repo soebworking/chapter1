@@ -7,6 +7,6 @@ export M2=$M2_HOME/bin
 export PATH=$M2:$PATH
 
 
-cd /Users/miran/Documents/software/eclipse_ws/chapter1/demo
+#cd /Users/miran/Documents/software/eclipse_ws/chapter1/demo
 
 mvn clean install -DskipTests
